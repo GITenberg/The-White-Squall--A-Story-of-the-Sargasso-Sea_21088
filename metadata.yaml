@@ -1,0 +1,31 @@
+_repo: The-White-Squall--A-Story-of-the-Sargasso-Sea_21088
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schönberg, John
+    alias: Schonberg, John
+    gutenberg_agent_id: '9891'
+    url: http://www.gutenberg.org/2009/agents/9891
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutcheson, John C. (John Conroy)
+    alias: Hutcheson, John Conroy
+    gutenberg_agent_id: '9724'
+    url: http://www.gutenberg.org/2009/agents/9724
+description: ''
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sargasso Sea -- Fiction'
+- !lcc 'PR'
+title: 'The White Squall: A Story of the Sargasso Sea'
+url: http://www.gutenberg.org/ebooks/21088
